@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 c70ea353291581b90e0ac052ba996f8df33e576f phoenix <phoenix@phoenix-lappy.(none)> 1560763885 +0530	clone: from https://ansuman87@bitbucket.org/ansuman87/cp_tower.git
+c70ea353291581b90e0ac052ba996f8df33e576f a6ce1936fa251bee0272fec783aaa99a189723e1 ansuman87~ <ansuman@cellpropulsion.com> 1560764972 +0530	commit: place can be searched on path planner activity which will zoom to that particular location to help placing markers
+a6ce1936fa251bee0272fec783aaa99a189723e1 a8c3a5a9da782c266ded277e9e7a1abf9b9f0013 ansuman87~ <ansuman@cellpropulsion.com> 1563960272 +0530	commit: Pathplanner shows user location, lead-off results in Loiter, algo to find GCS location wrt road midpoint array is now more robust less optimal
